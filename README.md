@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitória Valladares</h1>
 <h3 align="center">Analytics Engineer at Stone and Postgraduate Student in Data Science & Analytics at PUC-Rio</h3>
----
 
 - 🎓 Graduated in Electrical Engineering
   
