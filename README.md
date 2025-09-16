@@ -1,44 +1,77 @@
 <h1 align="center">Hi 👋, I'm Vitória Valladares</h1>
-<h3 align="center">Analytics Engineer at Stone and Postgraduate in Data Science & Analytics at PUC-Rio</h3>
+<h3 align="center">Senior Data Engineer & Analytics | AI Researcher | M.Sc. Student in AI & Computer Science @ UNICAMP</h3>
 
-- 🎓 Graduated in Electrical Engineering & Postgraduate in Data Science & Analytics at PUC-Rio
-  
-- 💼 I'm currently working at Stone
+---
 
-- 🌱 I’m currently learning **Databricks and Large Language Model**
+### 🚀 About Me
+- 🎓 Background in **Electrical Engineering (UFPI)**, **Postgraduate in Data Science & Analytics (PUC-Rio)**, and currently pursuing an **M.Sc. in Computer Science with focus on AI (UNICAMP)**.  
+- 💼 Currently working as **Senior Analytics Engineer (AI Ops) at Itaú Unibanco**, designing and implementing **end-to-end Data & AI solutions**.  
+- 🛠️ Skilled in **modern data architectures** (*data warehouse, data lakehouse, data mesh*), **MLOps lifecycle**, and **SRE practices** for observability, reliability, and cost optimization.  
+- 🔬 Research line: **Efficiency in Cloud Computing applied to the operationalization of AI models**.  
+- 🤝 Passionate about mentoring, fostering **technical culture**, and connecting **data engineering, AI, and business needs**.  
 
-- 📫 How to reach me **vitoria_valladares@hotmail.com**
+📫 Reach me at **vitoria_valladares@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/vivalladares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitoria-valladares" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vivalladares" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-vivalladares" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_100.png" alt="airflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-</p>
+---
+
+### 🛠️ Languages & Tools  
+
+**Programming Languages**  
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/) 
+[![SQL](https://img.shields.io/badge/SQL-Structured-lightgrey.svg)](https://www.w3schools.com/sql/) 
+[![R](https://img.shields.io/badge/R-Data%20Analysis-blue.svg)](https://www.r-project.org/) 
+[![C](https://img.shields.io/badge/C-Low%20Level-darkblue.svg)](https://en.wikipedia.org/wiki/C_(programming_language)) 
+[![C++](https://img.shields.io/badge/C++-OOP-orange.svg)](https://isocpp.org/) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-Web-blue.svg)](https://www.typescriptlang.org/)  
+
+**Cloud Platforms**  
+[![AWS](https://img.shields.io/badge/AWS-Cloud-orange.svg)](https://aws.amazon.com/) 
+[![GCP](https://img.shields.io/badge/GCP-Cloud-blue.svg)](https://cloud.google.com/) 
+[![Azure](https://img.shields.io/badge/Azure-Cloud-lightblue.svg)](https://azure.microsoft.com/)  
+
+**Big Data & Data Engineering**  
+[![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-red.svg)](https://databricks.com/) 
+[![Apache Spark](https://img.shields.io/badge/Spark-BigData-orange.svg)](https://spark.apache.org/) 
+[![PySpark](https://img.shields.io/badge/PySpark-Data-yellow.svg)](https://spark.apache.org/docs/latest/api/python/) 
+[![Airflow](https://img.shields.io/badge/Airflow-Orchestration-green.svg)](https://airflow.apache.org/) 
+[![dbt](https://img.shields.io/badge/dbt-Transform-red.svg)](https://www.getdbt.com/) 
+[![Delta Lake](https://img.shields.io/badge/DeltaLake-Storage-blue.svg)](https://delta.io/) 
+[![BigQuery](https://img.shields.io/badge/BigQuery-GCP-blue.svg)](https://cloud.google.com/bigquery) 
+[![Snowflake](https://img.shields.io/badge/Snowflake-CloudData-lightblue.svg)](https://snowflake.com/) 
+[![Redshift](https://img.shields.io/badge/Redshift-AWS-red.svg)](https://aws.amazon.com/redshift/)  
+
+**Machine Learning & Data Science**  
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-red.svg)](https://scikit-learn.org/) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange.svg)](https://www.tensorflow.org/) 
+[![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red.svg)](https://pytorch.org/) 
+[![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-green.svg)](https://xgboost.ai/) 
+[![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-lightgreen.svg)](https://lightgbm.readthedocs.io/) 
+[![Keras](https://img.shields.io/badge/Keras-NN-red.svg)](https://keras.io/) 
+[![MLflow](https://img.shields.io/badge/MLflow-MLOps-blue.svg)](https://mlflow.org/) 
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple.svg)](https://pandas.pydata.org/) 
+[![NumPy](https://img.shields.io/badge/NumPy-Math-lightblue.svg)](https://numpy.org/) 
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-Stats-green.svg)](https://www.statsmodels.org/)  
+
+**Data Visualization & Monitoring**  
+[![Power BI](https://img.shields.io/badge/PowerBI-Business-yellow.svg)](https://powerbi.microsoft.com/) 
+[![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue.svg)](https://www.tableau.com/) 
+[![Looker](https://img.shields.io/badge/Looker-Google-lightblue.svg)](https://looker.com/) 
+[![QuickSight](https://img.shields.io/badge/QuickSight-AWS-orange.svg)](https://aws.amazon.com/quicksight/) 
+[![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange.svg)](https://grafana.com/)  
+
+**DevOps & Code Management**  
+[![Git](https://img.shields.io/badge/Git-Version--Control-red.svg)](https://git-scm.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black.svg)](https://github.com/) 
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-purple.svg)](https://www.terraform.io/) 
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-green.svg)](https://en.wikipedia.org/wiki/CI/CD) 
+[![Unit Testing](https://img.shields.io/badge/Unit--Testing-QA-blue.svg)](https://en.wikipedia.org/wiki/Unit_testing)  
 
