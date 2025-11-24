@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🎓 Background in **Electrical Engineering (UFPI)**, **Postgraduate in Data Science & Analytics (PUC-Rio)**, and currently pursuing an **M.Sc. in Computer Science with focus on AI (UNICAMP)**.  
-- 💼 Currently working as **Senior Analytics Engineer (AI Ops) at Itaú Unibanco**, designing and implementing **end-to-end Data & AI solutions**.  
+- 💼 Currently working as **Analytics Engineer (AI Ops) at Itaú Unibanco**, designing and implementing **end-to-end Data & AI solutions**.  
 - 🛠️ Skilled in **modern data architectures** (*data warehouse, data lakehouse, data mesh*), **MLOps lifecycle**, and **SRE practices** for observability, reliability, and cost optimization.  
 - 🔬 Research line: **Efficiency in Cloud Computing applied to the operationalization of AI models**.  
 - 🤝 Passionate about mentoring, fostering **technical culture**, and connecting **data engineering, AI, and business needs**.  
@@ -16,8 +16,13 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/vivalladares" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-vivalladares" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/vivalladares" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin-vivalladares"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
 
